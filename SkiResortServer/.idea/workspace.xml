@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SkiResortServer" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="358f7593-5903-45bf-b5c2-7bac99d245df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Consumer/Consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeNumberServer/PrimeNumberServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient2/src/main/java/ClientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient2/src/main/java/ClientMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient2/src/main/java/CreateLiftRequestsThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient2/src/main/java/CreateLiftRequestsThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient2/src/main/java/Phase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient2/src/main/java/Phase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient2/target/classes/ClientMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient2/target/classes/ClientMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient2/target/classes/CreateLiftRequestsThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient2/target/classes/CreateLiftRequestsThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SkiResortClient2/target/classes/Phase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SkiResortClient2/target/classes/Phase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SkiResortServer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer/SkiResortServer.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SkiResortServer/SkiResortServer.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/META-INF/SkiResortServer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/LiftRide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/Resort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/ResortsList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/ResponseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/SeasonInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/SeasonsList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/model/SkierVertical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/servlet/ResortsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/classes/servlet/SkierServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SkiResortServer_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/SkierServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/SkierServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SkiResortServer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/SkierServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlet/SkierServlet.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z4RaGHAALStrwmqqlxtuHN04QG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="servlet" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rabbitmq" />
+      <recent name="model" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SkierServlet">
+    <configuration name="SkierServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servlet.SkierServlet" />
+      <module name="SkiResortServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.71" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/SkiResortServer_expl/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SkiResortServer">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SkiResortServer_expl" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SkiResortServer" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50367" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SkiResortServer" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SkierServlet" />
+      <item itemvalue="Tomcat Server.Tomcat8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SkierServlet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="358f7593-5903-45bf-b5c2-7bac99d245df" name="Default Changelist" comment="" />
+      <created>1633405434124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633405434124</updated>
+      <workItem from="1633405439188" duration="15053000" />
+      <workItem from="1635559596682" duration="9310000" />
+      <workItem from="1635796525261" duration="22205000" />
+      <workItem from="1636508937825" duration="503000" />
+      <workItem from="1636604099076" duration="16550000" />
+      <workItem from="1636889277820" duration="1375000" />
+      <workItem from="1636920622317" duration="772000" />
+      <workItem from="1638315404118" duration="2755000" />
+      <workItem from="1638749104890" duration="17009000" />
+      <workItem from="1639016063311" duration="6349000" />
+      <workItem from="1639057951003" duration="2768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SkiResortServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkiResortServer</output-path>
+    <root id="archive" name="SkiResortServer.war">
+      <element id="javaee-facet-resources" facet="SkiResortServer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SkiResortServer" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/Softwares/gson-2.8.8.jar" />
+          <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:5.13.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.31" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.7.31" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
